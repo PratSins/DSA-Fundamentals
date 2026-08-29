@@ -6,16 +6,14 @@
 3. arrReverse
 4. LinearSearch
 5. sorting_Algorithms:
-
-        Bubble Sort
-        Selection Sort
-        Insertion Sort
-        Quick Sort
-        Counting Sort
-        Radix Sort
-        Merge Sort
-        Cycle Sort
-
+      - Bubble Sort 
+      - Selection Sort 
+      - Insertion Sort 
+      - Quick Sort 
+      - Counting Sort 
+      - Radix Sort 
+      - Merge Sort 
+      - Cycle Sort
 6. binarySearch
 7. SubArrays
 8. MaxSubArraySum
