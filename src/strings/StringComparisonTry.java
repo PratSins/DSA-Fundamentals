@@ -1,3 +1,5 @@
+package strings;
+
 import static util.printer.*;
 import java.util.*;
 public class StringComparisonTry

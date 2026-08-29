@@ -1,3 +1,5 @@
+package strings;
+
 import static util.printer.*;
 public class Str_Compression
 {

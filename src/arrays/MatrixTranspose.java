@@ -1,3 +1,5 @@
+package arrays;
+
 import static util.printer.*;
 public class MatrixTranspose
 {

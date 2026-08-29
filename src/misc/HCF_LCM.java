@@ -1,3 +1,5 @@
+package misc;
+
 import static util.printer.*;
 import static util.input.*;
 import java.math.*; // For in-built HCF function

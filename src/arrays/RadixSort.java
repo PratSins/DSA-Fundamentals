@@ -1,3 +1,5 @@
+package arrays;
+
 import java.util.Arrays;
 import static util.printer.printArr;
 public class RadixSort

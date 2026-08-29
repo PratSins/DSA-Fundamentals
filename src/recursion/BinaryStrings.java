@@ -1,3 +1,5 @@
+package recursion;
+
 /*
 * Print all binary strings of size N without consecutive ones.
 * PayTM

@@ -1,3 +1,5 @@
+package arrays;
+
 import static util.printer.*;
 import java.util.Arrays; // For Inbuilt sorting function
 import java.util.Collections;

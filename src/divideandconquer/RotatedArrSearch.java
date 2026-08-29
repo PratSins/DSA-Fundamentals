@@ -1,3 +1,5 @@
+package divideandconquer;
+
 import static util.printer.*;
 public class RotatedArrSearch
 {

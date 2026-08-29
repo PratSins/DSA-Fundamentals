@@ -1,3 +1,5 @@
+package bitmanipulation;
+
 public class FastExponentiation
 {
     //to calculate a^n

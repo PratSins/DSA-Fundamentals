@@ -1,3 +1,5 @@
+package bitmanipulation;
+
 public class BitOperations
 {
     //Get ith Bit

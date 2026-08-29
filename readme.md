@@ -1,4 +1,4 @@
-# Alpha DSA-Java Course by Apna College
+# DSA-Java
 
 ### 1. Arrays and Matrices
 1. Largest_inArr
@@ -47,8 +47,7 @@
 1. MergeSort
 2. QuickSort
 3. RotatedArrSearch
-4. xx
 
 ### Miscellaneous
 1. HCF_LCM
-2. x
+2. TreeLockingSystem

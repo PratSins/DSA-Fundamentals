@@ -1,3 +1,5 @@
+package arrays;
+
 import java.io.*;
 import static util.printer.*;
 public class binarySearch
